@@ -5,14 +5,17 @@
 </h4>
 <hr>
 <h5>
-  [개발 기간]  2023. 05 ~ 진행 중 <br> <br>
+  [개발 기간]  2023. 05 ~ 진행 중 (23. 07. 29 기준) <br> <br>
   [사용 기술]  Java, HTML, CSS, JSP, MySQL
 </h5>
 <hr>
 <h5>
-  [주요 기능]
+  [주요 기능]<br>
   <br>
-  <p>
-    <img src="[C:\Users\이주영\Desktop\fiesta/image01](https://github.com/jy375876/Portfolio/assets/52689926/c8ec92ea-75ed-48da-b8c6-5e494ee15b27)https://github.com/jy375876/Portfolio/assets/52689926/c8ec92ea-75ed-48da-b8c6-5e494ee15b27"/>
-  </p>
+  - 회원가입, 로그인 <br><br>
+  - 메인화면 - 이 달의 축제 정보(축제명, 행사기간, 홍보 웹사이트, 카카오맵 지도), 축제 홍보 유튜브 영상<br><br>
+  - 3개의 메뉴바 (사이트 정보, 축제 정보, 커뮤니티)<br><br>
+  - 축제 정보 메뉴바 - 지역 별 축제 정보 확인 (홍보 SNS 및 웹사이트, 네이버 길찾기)<br><br>
+  - 커뮤니티 - 공지사항, 리뷰게시판 (구현 중)<br><br>
+
 </h5>
